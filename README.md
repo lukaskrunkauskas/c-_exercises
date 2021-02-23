@@ -1,1 +1,1 @@
-# c-_exercises
+# cpp_exercises
